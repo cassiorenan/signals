@@ -7,9 +7,9 @@
  *  internal ones may change on future versions.
  **/
 
-#include "signal.h"
-#include "listen.h"
 #include "forget.h"
+#include "listen.h"
+#include "signal.h"
 #include "signal_handle.h"
 
 #endif
